@@ -1,0 +1,5 @@
+# 下载的 WebView2 SDK 包（build.cmd 会自动下载/缓存，不入库）
+webview2-pkg/
+
+# 本地数据与临时文件
+*.log
